@@ -1,0 +1,25 @@
+{
+  "name": "leaflet-bounce-marker-plugin",
+  "version": "1.0.0",
+  "description": "A plugin for Leaflet to have a bounce animation when adding a Marker to a map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anbucher/leaflet-bounce-marker.git"
+  },
+  "keywords": [
+    "leaflet",
+    "plugin",
+    "bounce",
+    "marker"
+  ],
+  "author": "Andreas Bucher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anbucher/leaflet-bounce-marker/issues"
+  },
+  "homepage": "https://github.com/anbucher/leaflet-bounce-marker#readme"
+}
